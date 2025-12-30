@@ -1,0 +1,32 @@
+{
+  "name": "Roya - Habit Tracking & Personal Development",
+  "short_name": "Roya",
+  "description": "Track habits, mood, journal entries, goals, and more. A compassionate approach to personal growth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#6B4CE6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://public-frontend-cos.metadl.com/mgx/img/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://public-frontend-cos.metadl.com/mgx/img/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle", "productivity"],
+  "screenshots": [
+    {
+      "src": "https://mgx-backend-cdn.metadl.com/generate/images/872974/2025-12-29/909d396c-cfd8-4b07-9d75-d67403a275cb.png",
+      "sizes": "1024x768",
+      "type": "image/png"
+    }
+  ]
+}
